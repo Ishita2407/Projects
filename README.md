@@ -25,3 +25,5 @@ This report summarizes the sales performance of Contoso for the past year. The r
 - Cost of Goods Sold (Currency): The cost of the goods sold for each product subcategory.
 - Net Profit (Currency): The profit earned after accounting for all the expenses for each product subcategory.
 The report also  shows net profit running totals by date and year-over-year net profit by product brand.
+
+![Report 3](https://github.com/user-attachments/assets/cf63344a-e96a-41c3-8f35-26079cb19cbd)
