@@ -16,7 +16,7 @@ This report can be used to identify which regions, order dates, segments, catego
 
 Sales Analysis Report
 
-This report summarizes the sales performance of Contoso for the past year. The report provides insights into net quantity sold, sales amount, discount amount, return amount, cost of goods sold, and net profit. Here's a breakdown of the fields included in the report:
+This report summarizes the sales performance for the past year. The report provides insights into net quantity sold, sales amount, discount amount, return amount, cost of goods sold, and net profit. Here's a breakdown of the fields included in the report:
 
 - Net Quantity Sold (Units): The total number of units sold for each product subcategory.
 - Sales Amount (Currency): The total revenue generated from the sales of each product subcategory.
