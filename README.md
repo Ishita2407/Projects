@@ -14,7 +14,7 @@ This report can be used to identify which regions, order dates, segments, catego
 
 ![Power BI 2 report](https://github.com/Ishita2407/Projects/assets/91796142/eebef4c7-9d39-4b11-9401-35d60568bb7b)
 
-Contoso Sales Analysis Report
+Sales Analysis Report
 
 This report summarizes the sales performance of Contoso for the past year. The report provides insights into net quantity sold, sales amount, discount amount, return amount, cost of goods sold, and net profit. Here's a breakdown of the fields included in the report:
 
